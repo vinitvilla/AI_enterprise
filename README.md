@@ -6,4 +6,7 @@ If the project which I'm doing rightnow is about managing the group of people an
 
 But this is a simple project with just a file to upload so I felt gitHub is enough to get the things done.
 
+Description:
+This is a project of two classification algorithm used to classify the breast cancer.
+
 Good day :)
